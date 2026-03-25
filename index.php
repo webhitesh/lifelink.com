@@ -240,7 +240,7 @@
 
 <!-- Footer -->
 <footer>
-  <p>&copy; 2025 LifeLink | Designed ForSSSS Humanity ❤️</p>
+  <p>&copy; 2025 LifeLink | Designed For Humanity ❤️</p>
 </footer>
 
 <!-- Author Information -->
