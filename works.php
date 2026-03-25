@@ -195,7 +195,7 @@
       <li>
         <a href="#">Contact</a>
         <div class="dropdown">
-          <a href="tel:9016669031">📞Contact 1: 9016669031</a>
+          <a href="tel:******f9031">📞Contact 1: ******9031</a>
           <a href="mailto:lifelinkinquiry@gmail.com">✉️ Email: lifelinkinquiry@gmail.com</a><li></li>
         </div>
       </li>
