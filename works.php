@@ -211,7 +211,7 @@
   <div class="card-container">
     <!-- Card 1 -->
     <div class="card">
-      <img src="https://www.justforthehealthofit.org/sites/default/files/inline-images/NYBC-NJBS%20blood%20emergency%20donors%20needed%20now%20thumbnail.jpg" alt="Easy Donation">
+      <img src="https://media.istockphoto.com/id/1267306324/vector/blood-donation-concept.jpg?s=170667a&w=0&k=20&c=iv3zjDiHxwCxRN3PAWV4DfUo0QD9U8-GoAZpXXhUz6Q=" alt="Easy Donation">
       <h3>Easy for Donors</h3>
       <p>Donors can register and get matched with patients nearby in just a few clicks. You’ll receive alerts when your donation can help save a life.</p>
     </div>
