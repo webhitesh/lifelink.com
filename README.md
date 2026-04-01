@@ -23,7 +23,7 @@ LifeLink is a web platform where users can register as donors or requesters and 
 5. Create a database named: web
 6. Import the file: web.sql
 7. Place project folder inside htdocs
-8. Run: http://localhost/lifelink
+8. Run: http://localhost/web
 
 ## 📂 Database Info
 Database Name: web  
