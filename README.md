@@ -30,4 +30,4 @@ Database Name: web
 File: web.sql
 
 ## 👨‍💻 Author
-Hitesh Goyal
+Hitesh Ghoyal
